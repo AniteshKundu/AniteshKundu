@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anitesh</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
 
-<p align="right"> <img align="right" alt="Coding" width="350" src="https://w0.peakpx.com/wallpaper/830/599/HD-wallpaper-world-at-night-2020-shellz-art-badass-black-blue-city-code-cool-cyber-cyberpunk-fiction-game-gamer-geek-glow-hack-hacker-headphones-lights-navy-neon-nerd-new-year-programmer-sci-thumbnail.jpg" alt="aniteshkundu" /> </p>
+<p align="right"> <img align="right" alt="Coding" hight = "300" width="350" src="https://w0.peakpx.com/wallpaper/830/599/HD-wallpaper-world-at-night-2020-shellz-art-badass-black-blue-city-code-cool-cyber-cyberpunk-fiction-game-gamer-geek-glow-hack-hacker-headphones-lights-navy-neon-nerd-new-year-programmer-sci-thumbnail.jpg" alt="aniteshkundu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anitesh_kundu" target="blank"><img src="https://img.shields.io/twitter/follow/anitesh_kundu?logo=twitter&style=for-the-badge" alt="anitesh_kundu" /></a> </p>
 
