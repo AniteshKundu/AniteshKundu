@@ -1,18 +1,20 @@
 ![Header](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Anitesh</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
+<h3 align="center">I love to explor and experiment.</h3>
 
 <p align="right"> <img align="right" alt="Coding" hight = "100" width="350" src="https://w0.peakpx.com/wallpaper/830/599/HD-wallpaper-world-at-night-2020-shellz-art-badass-black-blue-city-code-cool-cyber-cyberpunk-fiction-game-gamer-geek-glow-hack-hacker-headphones-lights-navy-neon-nerd-new-year-programmer-sci-thumbnail.jpg" alt="aniteshkundu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anitesh_kundu" target="blank"><img src="https://img.shields.io/twitter/follow/anitesh_kundu?logo=twitter&style=for-the-badge" alt="anitesh_kundu" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter_Clone Project.**
+- 👨‍💻 I'm in my pre final year of B.Tech **Computer Science**
 
-- 🌱 I’m currently learning **Node.js,Machine Learning and Artificial intelligence.**
+- 🌱 I’m currently learning **Node.js,Machine Learning and Artificial intelligence**
 
-- 🤝 I’m looking for help with **Backend Development.**
+- 🔭 I’m currently working on **Twitter_Clone Project**
 
-- 📫 How to reach me **anitesh.kundu@gmail.com**
+- 🤝 I’m looking for help with **Backend Development**
+
+- 📫 You can reach me **anitesh.kundu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
