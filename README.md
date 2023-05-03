@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Anitesh</h1>
-<h3 align="center">I love to explor and experiment.</h3>
+<h3 align="center">I enjoy experimenting and exploring.</h3>
 
 <p align="right"> <img align="right" alt="Coding" hight = "100" width="350" src="https://w0.peakpx.com/wallpaper/830/599/HD-wallpaper-world-at-night-2020-shellz-art-badass-black-blue-city-code-cool-cyber-cyberpunk-fiction-game-gamer-geek-glow-hack-hacker-headphones-lights-navy-neon-nerd-new-year-programmer-sci-thumbnail.jpg" alt="aniteshkundu" /> </p>
 
