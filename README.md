@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node.js,Machine Learning and Artificial intelligence**
 
-- 🔭 I’m currently working on **Twitter_Clone Project**
+- 🔭 I’m currently working on **Instagram_Clone Project**
 
 - 🤝 I’m looking for help with **Backend Development**
 
